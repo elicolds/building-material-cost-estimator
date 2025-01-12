@@ -1,6 +1,6 @@
 # building-material-cost-estimator
 
-# Building Material Cost Calculator
+# Building Material Cost Estimator
 
 A Python script to estimate the cost of flooring for rooms based on dimensions and chosen materials. It supports calculations for single or multiple rooms and allows saving project details to a file.
 
